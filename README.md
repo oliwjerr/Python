@@ -1,1 +1,1 @@
-# Python-al-ma
+# Python Temelini öğrenmenizde yardımcı olabilecek bir Çalışma
